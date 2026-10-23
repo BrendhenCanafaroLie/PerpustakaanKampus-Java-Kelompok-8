@@ -2,7 +2,7 @@
 Program Java konsol untuk mengelola perpustakaan kampus: koleksi buku, lokasi rak, antrean peminjam, dan riwayat transaksi, memakai Array 1D/2D/3D, ArrayList, Stack, dan Queue.
 
 ## Tugas Pemrograman Java
-- **Mata Kuliah:** Pemrograman Berorientasi Objek
+- ***Mata Kuliah:*** Pemrograman Berorientasi Objek
 - **Dosen Pengampu:** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
 - **Program Studi:** Sistem Informasi
 - **Angkatan:** 2025
