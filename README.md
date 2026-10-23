@@ -13,7 +13,7 @@ Program Java konsol untuk mengelola perpustakaan kampus: koleksi buku, lokasi ra
 2. **[Nama Lengkap]** - [NIM] - [Kelas]
 3. **[Nama Lengkap]** - [NIM] - [Kelas]
    
-## Struktur Project
+## Struktur File Proyek
 ```
 TugasPBOMatkul
 ├── pom.xml
