@@ -10,7 +10,7 @@ Program Java konsol untuk mengelola perpustakaan kampus: koleksi buku, lokasi ra
   
 ## Anggota Kelompok 8
 1. **Brendhen Canafaro Lie** - 2509116033 - Kelas A
-2. **[Nama Lengkap]** - [NIM] - [Kelas]
+2. **Muhammad Aidil Anugerah** - 2509116032 - Kelas A
 3. **[Nama Lengkap]** - [NIM] - [Kelas]
    
 ## Struktur File Proyek
