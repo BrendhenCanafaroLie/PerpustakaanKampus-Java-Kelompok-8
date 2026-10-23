@@ -19,20 +19,22 @@ TugasPBOMatkul
 ├── pom.xml
 └── src/main/java
     ├── main
-    │   └── Main.java
+    │   └── Main.java               (menu dan alur saja)
     ├── model
     │   ├── Buku.java
     │   └── Transaksi.java
     ├── service
-    │   ├── KategoriService.java
-    │   ├── BukuService.java
-    │   ├── AntreanService.java
-    │   ├── TransaksiService.java
-    │   └── PeminjamanService.java
+    │   ├── KategoriService.java    (Array 1D)
+    │   ├── BukuService.java        (ArrayList + Array 3D)
+    │   ├── AntreanService.java     (Queue)
+    │   ├── TransaksiService.java   (Array 2D + Stack)
+    │   └── PeminjamanService.java  (proses pinjam, menghubungkan semuanya)
     └── helper
-        └── InputHelper.java
+        └── InputHelper.java        (bacaInt, bacaString)
+
 ```
 
+## Struktur Dalam Netbeans
 <div align="center">
   <img width="255" height="278" alt="image" src="https://github.com/user-attachments/assets/877b633c-02ba-430b-8d05-bb951ea476cf" />
 </div>
