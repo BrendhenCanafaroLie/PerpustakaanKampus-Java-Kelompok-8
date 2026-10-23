@@ -14,4 +14,6 @@ Program Java konsol untuk mengelola perpustakaan kampus: koleksi buku, lokasi ra
 3. **[Nama Lengkap]** - [NIM] - [Kelas]
    
 ## Struktur File
-<img width="255" height="278" alt="image" src="https://github.com/user-attachments/assets/877b633c-02ba-430b-8d05-bb951ea476cf" />
+<div align="center">
+  <img width="255" height="278" alt="image" src="https://github.com/user-attachments/assets/877b633c-02ba-430b-8d05-bb951ea476cf" />
+</div>
