@@ -3,10 +3,10 @@ Program Java konsol untuk mengelola perpustakaan kampus: koleksi buku, lokasi ra
 
 ## Tugas Pemrograman Java
 - ***Mata Kuliah:*** Pemrograman Berorientasi Objek
-- **Dosen Pengampu:** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
-- **Program Studi:** Sistem Informasi
-- **Angkatan:** 2025
-- **Kelompok:** 8
+- ***Dosen Pengampu:*** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
+- ***Program Studi:*** Sistem Informasi
+- ***Angkatan:*** 2025
+- ***Kelompok:*** 8
   
 ## Anggota Kelompok 8
 1. **Brendhen Canafaro Lie** - 2509116033 - Kelas A
